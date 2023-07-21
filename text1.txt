@@ -4,3 +4,4 @@ line3: Allahu akbar
 line4: this is line 4, might be changed
 iine5: this is line 5, who knows what will be happed!
 line6: added new line f
+line7: from br1
