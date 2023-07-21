@@ -1,2 +1,3 @@
 line1: bismillah
 line2: alhamdulillah
+line3: allahu akbar
